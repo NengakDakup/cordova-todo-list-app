@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "nenosofttech.rf.gd.Notes_App"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "nenosofttech.rf.gd.Notes_App"
+    }
+  },
+  "dependent_plugins": {}
+}
